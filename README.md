@@ -1,6 +1,4 @@
 # MyWebsite
 
-test
-
-checking to see if this works
+Project 2.0 redesign in development.
 
