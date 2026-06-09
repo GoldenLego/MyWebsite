@@ -19,3 +19,13 @@ p{
 h3{
     color: yellow;
 }
+#b1{
+    text-align: left;
+    padding-left: 100px;
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: darkblue;
+}
