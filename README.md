@@ -2,5 +2,5 @@
 
 Project 2.0 redesign in development.
 
-Version: 1.1
+Version: 1.2
 
